@@ -3,7 +3,7 @@ Biomedical engineering - miniproject - data exploration
 
 ## Project Overview
 
-Welcome to my analise of data "Terrorist attacks". My analyse was created for terrorist attacks in Europe and constist five of diffrent comaprisons for such topics as: 
+Welcome to my analise of data "Terrorist attacks". My analyse was created for terrorist attacks in Europe and constists of five diffrent comaprisons for such topics as: 
 
 - the amount of attacks in Western and Eastern Europe
 - types of weapons which are the most popular
