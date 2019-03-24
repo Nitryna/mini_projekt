@@ -41,6 +41,6 @@ Welcome to my analise of data "Terrorist attacks". My analyse was created for te
   
 5. My format of data
 
-My data are downloaded from kaggle.com........ 
+My data are downloaded from https://www.kaggle.com/START-UMD/gtd 
 Only the data from 2000 to 2017 year was copied and analysed. Additionally, the analyse was only for Western and Easten Europe.
 Examples of data are in file "samples.txt" 
