@@ -7,7 +7,7 @@ Welcome to my analise of data "Terrorist attacks". My analyse was created for te
 
 - the amount of attacks in Western and Eastern Europe
 - types of weapons which are the most popular
-- which mounths has got the most amount of attacks
+- which mounths have got the most amount of attacks
 - comaprison between the amount of attacks in Western and Eastern Europe since 2000 year
 - the most popular targets of terrorists attacks
 
