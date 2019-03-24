@@ -5,11 +5,11 @@ Biomedical engineering - miniproject - data exploration
 
 Welcome to my analise of data "Terrorist attacks". My analyse was created for terrorist attacks in Europe and constist five diffrent comaprisons for such topics as: 
 
-- the mount of attacks in West and East Europe (which region
+- the amount of attacks in Western and Eastern Europe
 - types of weapons which are the most popular
 - which mounths has got the most amount of attacks
-- comaprison the amount of attacks in West and East Europe since 2000 year
-- The most popular targets od terrorists attacks
+- comaprison between the amount of attacks in Western and Eastern Europe since 2000 year
+- the most popular targets of terrorists attacks
 
 ## Project Instructions
 
@@ -42,5 +42,5 @@ Welcome to my analise of data "Terrorist attacks". My analyse was created for te
 5. My format of data
 
 My data are downloaded from https://www.kaggle.com/START-UMD/gtd 
-Only the data from 2000 to 2017 year was copied and analysed. Additionally, the analyse was only for Western and Easten Europe.
+Only the data from 2000 to 2017 year was copied and analysed. Additionally, the data was the analysed only for Western and Eastern Europe.
 Examples of data are in file "samples.txt" 
