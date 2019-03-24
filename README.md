@@ -28,7 +28,7 @@ Welcome to my analise of data "Terrorist attacks". My analyse was created for te
     Go to your home directory, and clone the repository. In case you made a copy (fork) provide your own URL
     ```
     cd
-    git clone ..................... <tutaj link>
+    git clone https://github.com/Nitryna/mini_projekt
     cd bme-data-exp
     ```
 
